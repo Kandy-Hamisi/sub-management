@@ -11,4 +11,6 @@ export const {
   JWT_EXPIRES_IN,
   USER_ID,
   USER_TOKEN,
+  ARCJET_KEY,
+  ARCJET_ENV,
 } = process.env;
